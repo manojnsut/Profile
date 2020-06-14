@@ -142,11 +142,14 @@ a:hover{
 /* Mobile Responsiveness */
 @media (max-width:480px) {
   .mountain{
-    margin-top: 40px;
+    top: 580px;
     width: 95%;
     margin-left: 10px;
     margin-right: 10px;
   }
+  .middle-container {
+   margin : 80px 0;
+   }
   .top-cloud{
     top: 20px;
     right: 240px;
