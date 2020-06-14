@@ -51,7 +51,7 @@ a:hover{
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
 .middle-container {
@@ -140,7 +140,7 @@ a:hover{
 }
 
 /* Mobile Responsiveness */
-@media (max-width:500px) {
+@media (max-width:480px) {
   .mountain{
     margin-top: 70px;
     width: 95%;
@@ -151,13 +151,13 @@ a:hover{
     right: 250px;
   }
   .bottom-cloud{
-    top:500px;
+    top:540px;
     padding-bottom: 20px;
   }
   .h1{
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .h2{
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 }
