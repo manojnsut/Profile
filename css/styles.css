@@ -152,8 +152,9 @@ a:hover{
     right: 240px;
   }
   .bottom-cloud{
-    top:570px;
+    top:560px;
     padding-bottom: 20px;
+    left: 240px;
   }
   .h1{
     font-size: 2rem;
